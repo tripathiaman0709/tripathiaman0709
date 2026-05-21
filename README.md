@@ -176,29 +176,16 @@ Custom implementation of arbitrary precision arithmetic in C++ supporting operat
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=tripathiaman0709&show_icons=true&theme=tokyonight"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripathiaman0709&layout=compact&theme=tokyonight"
-  height="170"
-/>
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tripathiaman0709&show_icons=true&theme=tokyonight" height="170"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tripathiaman0709&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=tripathiaman0709&theme=tokyonight"
-  height="180"
-/>
-
+  <img src="https://streak-stats.demolab.com?user=tripathiaman0709&theme=tokyonight" height="180"/>
 </p>
 
 ---
