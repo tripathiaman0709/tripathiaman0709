@@ -199,7 +199,7 @@ Custom implementation of arbitrary precision arithmetic in C++ supporting operat
 # 📄 Resume
 
 🔗 Resume Link:
-https://drive.google.com/file/d/1DieZh6Lxc9HVZx7DH85t3qkhry0BGhm_/view?usp=sharing
+https://drive.google.com/file/d/1ab2pwSmL3JsiuaCw7jeKrl_9hQ97pJos/view?usp=sharing
 
 ---
 
