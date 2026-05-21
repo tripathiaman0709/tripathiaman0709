@@ -19,10 +19,10 @@
 
 ## 🏆 Achievements  
 - 🟣 **ICPC 2025 Amritapuri Regionalist**  
-- ♟ **Meta Hacker Cup 2025 – Global Rank 1303**  
+- ♟ **Meta Hacker Cup 2025 – Global Rank 101**  
 - ⭐ **CodeChef 5★ (Rating: 2005)** — *Top 1%*  
 - 🟩 **LeetCode Guardian (Rating: 2305)** — *Top 0.5%*  
-- 🔵 **Codeforces Expert (Rating: 1648)** — *Top 1%*  
+- 🔵 **Codeforces Expert (Rating: 1691)** — *Top 1%*  
 - 🟢 **HackerRank 6★ DSA & 5★ C++**  
 - 🥇 Global Rank **7/48,000 (Top 0.01%)** — CodeChef Starters 173  
 - 🥈 Global Rank **21/32,000 (Top 0.06%)** — LeetCode Weekly 465  
