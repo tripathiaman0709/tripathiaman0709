@@ -37,7 +37,7 @@ Competitive Programmer • Problem Solver • Full Stack Web Developer
 - ♟️ **Meta Hacker Cup 2025 — Global Rank 101**
 - ⭐ **CodeChef 5★ (2005)** — Top 1%
 - 🟩 **LeetCode Guardian (2305)** — Top 0.5%
-- 🔵 **Codeforces Expert (1691)** — Top 1%
+- 🔵 **Codeforces Expert (1791)** — Top 1%
 - 🟢 **HackerRank 6★ DSA & 5★ C++**
 - 🥇 Global Rank **7 / 48,000** — CodeChef Starters 173
 - 🥈 Global Rank **21 / 32,000** — LeetCode Weekly 465
